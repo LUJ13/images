@@ -5,10 +5,12 @@ Hi guys,
 1. [ElementUI design and Demo introduction](#ch1)
 2. [Installation guide and component introduction](#ch2)
 3. [Function introduction](#ch3)  
-    -3.1 [LoginView.vue-Login page](#ch3_1)  
-    -3.2 [HomeView.vue-Home page](#ch3_2)
-    -3.3 [IndexView.vue-Loan apply page](#ch3_3)
-    -3.4 [IndexView.vue-Loan apply management](#ch3_4)
+
+    - [LoginView.vue-Login page](#ch3_1)  
+    - [HomeView.vue-Home page](#ch3_2)
+    - [IndexView.vue-Loan apply page](#ch3_3)
+    - [IndexView.vue-Loan apply management](#ch3_4)
+    
 4. [Reference](#ref)
 
 ***
